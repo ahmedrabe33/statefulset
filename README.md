@@ -8,7 +8,9 @@ This project demonstrates how to deploy a **StatefulSet** in Kubernetes using:
 * StatefulSet
 
 
-!(/images/stf.png)
+## 📊 Architecture Diagram
+
+![Kubernetes StatefulSet Architecture](images/stf.png)
 
 ## 📦 Components
 
